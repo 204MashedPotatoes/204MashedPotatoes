@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 My Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,laravel)](https://skillicons.dev)
+<br>
 [![My Skills](https://skillicons.dev/icons?i=js,ts,jquery,html,pug,css,php)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,vite)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=bash,arduino,cpp,py)](https://skillicons.dev)
