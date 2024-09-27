@@ -31,3 +31,6 @@ My Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=gcp)](https://skillicons.dev)
 <br>
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,sqlite)](https://skillicons.dev)
+<br>
+[![My Skills](https://skillicons.dev/icons?i=kali,linux,ubuntu)](https://skillicons.dev)
+
