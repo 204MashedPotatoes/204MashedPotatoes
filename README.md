@@ -1,5 +1,4 @@
 ## Hi there 👋 I,m Kenneth
-
 <!--
 **204MashedPotatoes/204MashedPotatoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My Tech Stack
+<h4>My Tech Stack</h4>
 <br>
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,laravel)](https://skillicons.dev)
 <br>
