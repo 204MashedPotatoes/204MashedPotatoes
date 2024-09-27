@@ -15,12 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 My Tech Stack
+<br>
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,laravel)](https://skillicons.dev)
 <br>
 [![My Skills](https://skillicons.dev/icons?i=js,ts,jquery,html,pug,css,php)](https://skillicons.dev)
+<br>
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,vite)](https://skillicons.dev)
+<br>
 [![My Skills](https://skillicons.dev/icons?i=bash,arduino,cpp,py)](https://skillicons.dev)
+<br>
 [![My Skills](https://skillicons.dev/icons?i=dart,flutter,materialui)](https://skillicons.dev)
+<br>
 [![My Skills](https://skillicons.dev/icons?i=nodejs,fastapi)](https://skillicons.dev)
+<br>
 [![My Skills](https://skillicons.dev/icons?i=gcp)](https://skillicons.dev)
+<br>
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,sqlite)](https://skillicons.dev)
