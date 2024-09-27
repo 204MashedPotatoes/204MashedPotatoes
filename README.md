@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h4>My Tech Stack</h4>
+My Tech Stack
+<br>
 <br>
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,laravel)](https://skillicons.dev)
 <br>
