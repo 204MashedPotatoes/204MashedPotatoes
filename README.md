@@ -1,4 +1,4 @@
-## Hi there 👋 I,m Kenneth
+## Hi there 👋 I'm Kenneth
 <!--
 **204MashedPotatoes/204MashedPotatoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
