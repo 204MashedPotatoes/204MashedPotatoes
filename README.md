@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I,m Kenneth
 
 <!--
 **204MashedPotatoes/204MashedPotatoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap)](https://skillicons.dev)
-[!(https://skillicons.dev/icons?i=bash,arduino)]
+My Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,laravel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,jquery,html,pug,css,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,arduino,cpp,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,materialui)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,fastapi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=gcp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,sqlite)](https://skillicons.dev)
