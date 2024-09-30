@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 💡 Interests: Web Development, UI/UX design, and Automation
 <br>
 📚 Always looking to grow and collaborate with other developers.
-
+<br>
 Feel free to connect with me or check out my projects!
 
 
