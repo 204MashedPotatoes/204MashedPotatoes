@@ -4,6 +4,13 @@
 
 Here are some ideas to get you started:
 
+---
+
+👋 Hi, I’m [Your Name], a passionate beginner developer exploring the world of coding and software development. I’m always eager to learn new technologies, improve my skills, and contribute to open-source projects.
+
+---
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,6 +20,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+💡 Interests: Web Development, UI/UX design, and Automation
+📚 Always looking to grow and collaborate with other developers.
+
+Feel free to connect with me or check out my projects!
+
+
 My Tech Stack
 <br>
 <br>
