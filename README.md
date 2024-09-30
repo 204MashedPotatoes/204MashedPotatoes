@@ -21,11 +21,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💡 Interests: Web Development, UI/UX design, and Automation
-<br>
+
 📚 Always looking to grow and collaborate with other developers.
 <br>
-Feel free to connect with me or check out my projects!
+
+💡 Interests: Web Development, UI/UX design, and Automation
+<br>
+Feel free to connect with me ~
 
 
 My Tech Stack
